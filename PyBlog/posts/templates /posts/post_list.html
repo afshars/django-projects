@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>>Post</title>
+</head>
+<body>
+    <ul>
+        {% for i in posts %}
+           <li><a href="/posts/{{i.pk}}/">{{i.pk}} : {{i.title}}</li></a>
+        {% endfor %}
+    </ul>
+
+</body>
+</html>
