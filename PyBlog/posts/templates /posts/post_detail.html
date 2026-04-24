@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>Post Detail</title>
+</head>
+<body>
+    <h1> <p style = "direction: rtl ;" > {{post.title}} </p> </h1>
+     <h4> <p style="direction: rtl ;" > {{post.text}} </p> </h4>
+    <a href="/posts/"> Back </a>
+    <ul>
+        {% for i in comments %}
+            <li> {{i.text}},{{i.created_time}}</li>
+        {% endfor %}
+
+    </ul>
+</body>
+</html>
