@@ -4,7 +4,7 @@ This repository contains a collection of web development projects built with the
 
 Each project follows the standard Django structure and demonstrates core concepts of modern web development using Python.
 
----
+
 
 ## Project Scope
 
@@ -21,7 +21,7 @@ The main concepts explored across the projects in this repository include:
 - Basic authentication and user functionality  
 - Local development and project organization  
 
----
+
 
 ## Repository Structure
 
@@ -47,7 +47,7 @@ project_name/
 └── db.sqlite3
 ```
 
----
+
 
 ## Getting Started
 
@@ -90,7 +90,7 @@ Your application will be available at:
 http://127.0.0.1:8000/
 ```
 
----
+
 
 ## Technologies Used
 
@@ -100,13 +100,13 @@ http://127.0.0.1:8000/
 - HTML Templates or REST API responses  
 - Django’s development utilities  
 
----
+
 
 ## Future Work
 
 More Django projects, features, and educational samples will be added over time to expand backend development coverage.
 
----
+
 
 ## Author
 
