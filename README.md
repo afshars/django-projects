@@ -106,7 +106,9 @@ http://127.0.0.1:8000/
 
 More Django projects, features, and educational samples will be added over time to expand backend development coverage.
 
+## License
 
+This project is licensed under the MIT License.
 
 ## Author
 
